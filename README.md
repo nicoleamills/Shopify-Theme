@@ -1,6 +1,6 @@
 # Shopify-Theme
 Premade Shopify Theme templated created as an cost alternative method for small business owners. 
-Inspired by FashionNova.com, based off Shopify Debut theme.
+Inspired by FashionNova.com, built off Shopify Debut theme.
 
 See it live: https://premadeclothingfashionboutique.myshopify.com/
 
